@@ -18,7 +18,7 @@ export function Router() {
           component={Home}
           options={{
             gestureEnabled: false,
-            title: 'Awesome app',
+            title: 'Wallpaper App',
           }}
         />
       </Stack.Navigator>
